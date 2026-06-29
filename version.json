@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 100,
-  "latestVersionName": "1.0.99",
+  "latestVersionCode": 101,
+  "latestVersionName": "1.0.100",
   "apkUrl": "https://github.com/MateoAlcala/RBMch-releases/releases/latest/download/app-release.apk", 
   "forceUpdate": true,
   "message": "Nueva actualización disponible",
